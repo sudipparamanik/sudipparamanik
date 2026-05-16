@@ -1,6 +1,13 @@
-# 💫 About Me:
-Hi, i'm Sudip learning & buliding every day
 
+## About Me
+
+👋 Hi, I'm **Sudip Paramanik** — a B.Tech Computer Science & Engineering student  
+at **Mallabhum Institute of Technology**, West Bengal (Batch 2023–2027).
+
+🔭 Currently exploring **AWS Cloud** (EC2, VPC, IAM, EBS) and **Advanced DSA** (Recursion, Backtracking, Binary Search)  
+🌱 Building a strong foundation in **Java**, **Python**, **SQL**, and **Cloud Infrastructure**  
+💡 Passionate about solving problems and learning something new every day  
+🎯 Goal: Land a role in **Software Development** or **Cloud/DevOps** after graduation
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudip__paramanik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudipparamanik71@gmail.com) 
