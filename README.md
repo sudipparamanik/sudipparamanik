@@ -1,56 +1,53 @@
+<div align="center">
 
-## About Me
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=220&section=header&text=Sudip%20Paramanik&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20AWS%20%7C%20Java&descSize=20&descAlignY=60&animation=fadeIn)
 
-👋 Hi, I'm **Sudip Paramanik** — a B.Tech Computer Science & Engineering student  
-at **Mallabhum Institute of Technology**, West Bengal (Batch 2023–2027).
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FF9900&center=true&vCenter=true&width=600&lines=B.Tech+CSE+student%2C+class+of+2027;Learning+AWS;Practicing+DSA+in+Java;Looking+for+a+cloud+engineering+role)](https://git.io/typing-svg)
 
-🔭 Currently exploring **AWS Cloud** (EC2, VPC, IAM, EBS) and **Advanced DSA** (Recursion, Backtracking, Binary Search)  
-🌱 Building a strong foundation in **Java**, **Python**, **SQL**, and **Cloud Infrastructure**  
-💡 Passionate about solving problems and learning something new every day  
-🎯 Goal: Land a role in **Software Development** or **Cloud/DevOps** after graduation
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudip__paramanik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudipparamanik71@gmail.com) 
+## About me
 
-## 💻 Tech Stack
+I'm a B.Tech CSE student at Mallabhum Institute of Technology in West Bengal. I graduate in 2027.
 
-### 👨‍💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+Right now I'm learning AWS. So far I've worked with EC2, VPC, IAM and EBS. I also practice DSA in Java on LeetCode, lately recursion and backtracking, plus binary search.
+
+I work in Java and Python, and I know SQL. I'm looking for a cloud engineering role, ideally on AWS.
+
+## Find me
+
+<p align="left">
+  <a href="https://linkedin.com/in/sudip-paramanik-1985b0420/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/sudip__paramanik"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:sudipparamanik71@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+## Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,java,python,mysql,git,github,cloudflare&theme=dark" alt="Tech stack icons"/>
 </p>
 
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudipparamanik&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats"/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sudipparamanik&theme=transparent&hide_border=true" alt="GitHub streak"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudipparamanik&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages"/>
 </p>
 
-### 🧰 AWS Services
-<p>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="Amazon EC2" />
-  <img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="Amazon VPC" />
-  <img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS IAM" />
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" />
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda" />
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="Amazon DynamoDB" />
-  <img src="https://img.shields.io/badge/API_Gateway-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="Amazon API Gateway" />
-  <img src="https://img.shields.io/badge/CloudWatch-232F3E?style=for-the-badge&logo=amazoncloudwatch&logoColor=FF9900" alt="Amazon CloudWatch" />
+## Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sudipparamanik&theme=onedark&no-frame=true&no-bg=true&margin-w=12" alt="GitHub trophies"/>
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username= sudipparamanik&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user= sudipparamanik&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username= sudipparamanik&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id= sudipparamanik&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=sudipparamanik&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:232F3E&height=120&section=footer)
+
+</div>
