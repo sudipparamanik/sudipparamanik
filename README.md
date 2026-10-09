@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=FF9900&center=true&vCenter=true&width=560&lines=B.Tech+CSE+student%2C+class+of+2027;Learning+AWS;Practicing+DSA+in+Java;Looking+for+a+cloud+engineering+role)](https://git.io/typing-svg)
 
 <a href="https://linkedin.com/in/sudip-paramanik-1985b0420/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://drive.google.com/file/d/1uGPTVoyIeudwrnFfIM6PDm70A-t5iX7L/view"><img src="https://img.shields.io/badge/Resume-232F3E?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
 <a href="mailto:sudipparamanik71@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://instagram.com/sudip__paramanik"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
