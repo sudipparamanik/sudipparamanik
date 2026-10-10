@@ -19,13 +19,6 @@ I'm learning AWS and building with it. I've worked with EC2, VPC, IAM and EBS, a
 
 I'm looking for a cloud engineering role, ideally on AWS.
 
-## Projects
-
-| Project | Stack | Repo |
-|---|---|---|
-| Real-time chat system | Java, AWS CDK, API Gateway (WebSocket), Lambda, DynamoDB, Cognito, SQS, SNS, CloudWatch, X-Ray | [Real-time-chat-system](https://github.com/sudipparamanik/Real-time-chat-system) |
-| SmartDrive AI | React, Vite, Node.js, Express, MongoDB Atlas, AWS S3, JWT, Vercel | [View repo](https://github.com/sudipparamanik/Personal--cloud-storage-with-AI-optimization-PROJECT) |
-
 The chat system uses 8 AWS services in total. The CDK stack is written in Java and defines 3 WebSocket routes. SQS decouples message processing, and SNS sends the notifications.
 
 ## Experience
